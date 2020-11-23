@@ -16,4 +16,5 @@ public interface AdminInformationMapper {
     int updateByPrimaryKey(AdminInformation record);
 
     AdminInformation selectByNo(int ano);
+    凡人歌
 }
